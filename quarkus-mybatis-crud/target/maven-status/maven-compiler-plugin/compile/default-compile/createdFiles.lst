@@ -1,0 +1,3 @@
+com\knf\dev\demo\endpoint\UserEndpoint.class
+com\knf\dev\demo\model\User.class
+com\knf\dev\demo\repository\UserRepository.class

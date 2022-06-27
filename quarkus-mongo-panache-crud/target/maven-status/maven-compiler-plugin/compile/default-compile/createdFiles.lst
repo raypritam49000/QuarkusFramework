@@ -1,0 +1,4 @@
+com\knf\dev\controller\UserController.class
+com\knf\dev\model\User.class
+com\knf\dev\repository\UserRepository.class
+META-INF\panache-archive.marker
