@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.quarkiverse.freemarker:quarkus-freemarker:0.2.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/quarkiverse/freemarker/quarkus-freemarker/0.2.7/quarkus-freemarker-0.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/quarkiverse/freemarker/quarkus-freemarker/0.2.7/quarkus-freemarker-0.2.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/quarkiverse/freemarker/quarkus-freemarker/0.2.7/quarkus-freemarker-0.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

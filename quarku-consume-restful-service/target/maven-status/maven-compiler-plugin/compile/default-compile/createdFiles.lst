@@ -1,0 +1,9 @@
+org\knf\dev\demo\apachehttpclient\HttpService.class
+org\knf\dev\demo\mprestclientdemo\PostResource.class
+org\knf\dev\demo\newhttpclientdemo\HttpService.class
+org\knf\dev\demo\newhttpclientdemo\PostResource.class
+org\knf\dev\demo\apachehttpclient\PostResource.class
+org\knf\dev\demo\mprestclientdemo\PostService.class
+org\knf\dev\demo\jaxrsclientdemo\PostResource$1.class
+org\knf\dev\demo\model\Post.class
+org\knf\dev\demo\jaxrsclientdemo\PostResource.class
